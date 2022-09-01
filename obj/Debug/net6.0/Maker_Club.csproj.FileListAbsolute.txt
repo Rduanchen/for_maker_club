@@ -1,0 +1,15 @@
+C:\Users\cheny\OneDrive\桌面\Maker_Club\bin\Debug\net6.0\Maker_Club.exe
+C:\Users\cheny\OneDrive\桌面\Maker_Club\bin\Debug\net6.0\Maker_Club.deps.json
+C:\Users\cheny\OneDrive\桌面\Maker_Club\bin\Debug\net6.0\Maker_Club.runtimeconfig.json
+C:\Users\cheny\OneDrive\桌面\Maker_Club\bin\Debug\net6.0\Maker_Club.dll
+C:\Users\cheny\OneDrive\桌面\Maker_Club\bin\Debug\net6.0\Maker_Club.pdb
+C:\Users\cheny\OneDrive\桌面\Maker_Club\obj\Debug\net6.0\Maker_Club.csproj.AssemblyReference.cache
+C:\Users\cheny\OneDrive\桌面\Maker_Club\obj\Debug\net6.0\Maker_Club.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cheny\OneDrive\桌面\Maker_Club\obj\Debug\net6.0\Maker_Club.AssemblyInfoInputs.cache
+C:\Users\cheny\OneDrive\桌面\Maker_Club\obj\Debug\net6.0\Maker_Club.AssemblyInfo.cs
+C:\Users\cheny\OneDrive\桌面\Maker_Club\obj\Debug\net6.0\Maker_Club.csproj.CoreCompileInputs.cache
+C:\Users\cheny\OneDrive\桌面\Maker_Club\obj\Debug\net6.0\Maker_Club.dll
+C:\Users\cheny\OneDrive\桌面\Maker_Club\obj\Debug\net6.0\refint\Maker_Club.dll
+C:\Users\cheny\OneDrive\桌面\Maker_Club\obj\Debug\net6.0\Maker_Club.pdb
+C:\Users\cheny\OneDrive\桌面\Maker_Club\obj\Debug\net6.0\Maker_Club.genruntimeconfig.cache
+C:\Users\cheny\OneDrive\桌面\Maker_Club\obj\Debug\net6.0\ref\Maker_Club.dll
